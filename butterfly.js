@@ -5,8 +5,8 @@ var Tmax=10000;                        //MAX # OF MILLISECONDS BETWEEN PARAMETER
 //FLOATING IMAGE URLS FOR EACH IMAGE. ADD OR DELETE ENTRIES. KEEP ELEMENT NUMERICAL ORDER STARTING WITH "0" !!
 
 var floatimages=new Array();
-floatimages[0]='http://i363.photobucket.com/albums/oo72/herisys/butterfly.gif';
-floatimages[1]='http://i363.photobucket.com/albums/oo72/herisys/butterfly.gif';
+floatimages[0]='https://i363.photobucket.com/albums/oo72/herisys/butterfly.gif';
+floatimages[1]='https://i363.photobucket.com/albums/oo72/herisys/butterfly.gif';
 
 //*********DO NOT EDIT BELOW***********
 var NS4 = (navigator.appName.indexOf("Netscape")>=0 && parseFloat(navigator.appVersion) >= 4 && parseFloat(navigator.appVersion) < 5)? true : false;
