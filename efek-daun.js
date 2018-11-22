@@ -6,7 +6,7 @@
 			******************************************/
 			  
 			  //Configure below to change URL path to the snow image
-			  var snowsrc="http://arti.master.irhamna.googlepages.com/snow.gif";
+			  var snowsrc="https://sites.google.com/site/artimasterirhamna/snow.gif";
 			  // Configure below to change number of snow to render
 			  var no = 20;
 			  // Configure whether snow should disappear after x seconds (0=never):
